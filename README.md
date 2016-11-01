@@ -142,3 +142,5 @@ Continue is particularly helpful when we need to apply a few different operation
 - [break](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/exiting-loops'>Exiting Loops</a> on Learn.co and start learning to code for free.</p>
+
+Changes
